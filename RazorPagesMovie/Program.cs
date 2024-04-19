@@ -1,7 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using RazorPagesMovie.Data;
+using static System.Net.WebRequestMethods;
 var builder = WebApplication.CreateBuilder(args);
+
+/* Tutorial link here:
+ * https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/sql?view=aspnetcore-8.0&tabs=visual-studio 
+ * */
 
 // Add services to the container.
 builder.Services.AddRazorPages();
