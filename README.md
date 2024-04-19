@@ -10,3 +10,5 @@ This series includes the following tutorials:
 6. Add search,
 7. Add a new field,
 8. Add validation
+
+At the end, it's an app that can display and manage a database of movies.
