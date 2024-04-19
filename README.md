@@ -2,11 +2,11 @@ Tutorial: Create a Razor Pages web app with ASP.NET Core: https://learn.microsof
 
 This series includes the following tutorials:
 
-Create a Razor Pages web app
-Add a model to a Razor Pages app
-Scaffold (generate) Razor pages
-Work with a database
-Update Razor pages
-Add search
-Add a new field
-Add validation
+1. Create a Razor Pages web app,
+2. Add a model to a Razor Pages app,
+3. Scaffold (generate) Razor pages,
+4. Work with a database,
+5. Update Razor pages,
+6. Add search,
+7. Add a new field,
+8. Add validation
