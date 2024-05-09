@@ -1,4 +1,6 @@
-Tutorial: Create a Razor Pages web app with ASP.NET Core: https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-8.0&viewFallbackFrom=aspnetcore-2.1&preserve-view=true 
+Tutorial: Create a Razor Pages web app with ASP.NET Core
+
+
 
 This series includes the following tutorials:
 
@@ -12,3 +14,4 @@ This series includes the following tutorials:
 8. Add validation
 
 At the end, it's an app that can display and manage a database of movies.
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-8.0&viewFallbackFrom=aspnetcore-2.1&preserve-view=true
