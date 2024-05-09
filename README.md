@@ -1,4 +1,5 @@
 Tutorial: Create a Razor Pages web app with ASP.NET Core
+
 Sample screenshot:
 https://github.com/hkl690/RazorPagesMovie/blob/55f067f6dae454f1ce989362584d14aedd678c11/RazorPagesMovie/Screenshots%20of%20Pages/1%20Index%20of%20movies.png
 
