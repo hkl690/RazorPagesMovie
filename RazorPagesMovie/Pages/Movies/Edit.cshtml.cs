@@ -43,6 +43,7 @@ namespace RazorPagesMovie.Pages.Movies
         // For more details, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
+            // If the form data contains errors, return the same page for the user to correct the errors
             if (!ModelState.IsValid)
             {
                 return Page();
